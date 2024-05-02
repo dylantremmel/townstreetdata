@@ -1,0 +1,65 @@
+cluster_id,town_name,county_name,random_street_name,random_street_address,x,y
+30,Montague,Sussex,Sawmill Rd,"Sawmill Rd, Montague, NJ, 07461",41.2646319,-74.7016174
+29,Frankford,Sussex,Mattison Reservoir Ave,"Mattison Reservoir Ave, Frankford, NJ, 07826",41.2009,-74.7299582
+29,Wantage,Sussex,Haggerty Rd,"Haggerty Rd, Wantage, NJ, 07461",41.1923722,-74.6732105
+31,Frelinghuysen,Warren,Mill Road,"Mill Rd, Frelinghuysen, NJ, 07825",40.968521,-74.889091
+31,Fredon,Sussex,Fredon Springdale Rd,"Fredon Springdale Rd, Fredon Township, NJ 07860",41.0222109,-74.7824882
+31,Green,Sussex,Decker Pond Rd,"Decker Pond Rd, Green Township, NJ 07821",40.9564483,-74.7766167
+31,Independece,Warren,Asbury Rd,"Asbury RdIndependence Township, NJ 07840",40.864322,-74.876007
+31,Allamuchy,Warren,Waterloo Rd,"Waterloo RdAllamuchy Township, NJ 07840",40.888512,-74.799016
+31,Andover,Sussex,Lenape Rd,"Lenape RdAndover, NJ 07821",40.987774,-74.741455
+32,Mount Olive,Morris,Pleasant Hill Rd,"Pleasant Hill RdMt Olive, NJ",40.7522,-74.971017
+33,Roxbury,Morris,Eyland Ave,"Eyland AveRoxbury Township, NJ 07876",40.865007,-74.632841
+34,Rockaway,Morris,Jackson Ave,"Jackson AveRockaway, NJ 07866",40.900405,-74.511966
+19,West Milford,Passaic,Clinton Rd,"Clinton RdWest Milford, NJ",40.635594,-74.907142
+19,Ringwood,Passaic,Anderson Ave,"Anderson AveRingwood, NJ 07456",41.106995,-74.313893
+20,Mahwah,Bergen,Halifax Rd,"Halifax RdMahwah, NJ 07430",41.086614,-74.184725
+1,River Vale,Bergen,River Dr,"River DrRiver Vale, NJ 07675",40.988304,-74.029651
+1,Harrington Park,Bergen,Old Hook Rd,"Old Hook Rd, Harrington Park, NJ",40.9791433,-73.9910442
+1,Emerson,Bergen,Main St,"Main StEmerson, NJ",40.9740323,-74.0134009
+1,Alpine,Bergen,Closter Dock Rd,"Closter Dock Rd, New Jersey",40.9769285,-73.9647365
+1,Tenafly,Bergen,Piermont Rd,"Piermont RdTenafly, NJ",40.9273337,-73.9638474
+21,Montville,Morris,Intervale Rd,"Intervale Rd, Montville, New Jersey",40.904787,-73.998792
+21,Lincoln Park,Morris,2 Bridges Rd,"2 Bridges RdLincoln Park, NJ",40.899102,-74.274172
+21,East Hanover,Morris,S Ridgedale Ave,"S Ridgedale AveEast Hanover, NJ",40.8044203,-74.3938871
+8,Harding,Morris,New Vernon Rd,"New Vernon RdLong Hill, NJ 07933",40.695977,-74.47278
+8,Chatham,Morris,Jackson Ave,"Jackson AveChatham, NJ 07928",40.749546,-74.382824
+8,Long Hill,Morris,River Rd,"River RdLong Hill, NJ 07946",40.673986,-74.5239644
+2,Bethlehem,Hunterdon,Van Sykles Rd,Van Syckles RdNew Jersey,40.661212,-74.943069
+2,Franklin,Hunterdon,Van Cleef Rd,"Van Cleef Rd, Franklin, New Jersey",40.4932657,-74.5505768
+2,Raritan,Hunterdon,Miele Ct,"Miele CtRaritan, NJ 08869",40.571284,-74.6446128
+2,Kingwood,Hunterdon,Kingwood Rd,"Kingwood RdKingwood, NJ 08825",40.5157496,-75.006961
+2,Readington,Hunterdon,River Rd,"River Rd WReadington Township, NJ",40.523468,-74.833229
+15,East Brunswick,Middlesex,Beekman Rd,"Beekman RdEast Brunswick, NJ 08816",40.409048,-74.454803
+15,South Brunswick,Middlesex,White Pine Rd,"White Pine RdSouth Brunswick Township, NJ 08831",40.404772,-74.460189
+16,South Brunswick,Middlesex,Davidsons Mill Rd,"Davidson's Mill RdSouth Brunswick Township, NJ",40.525044,-74.456111
+17,Cranbury,Middlesex,Cedarbrook Dr,"Cedarbrook DrCranbury, NJ 08512",40.334184,-74.504025
+17,Monroe,Middlesex,Hoffman Station Rd,"Hoffman Station RdMonroe Township, NJ 08831",40.3152582,-74.4173145
+12,Robbinsville,Mercer,Lake Dr E,"Lake Dr ERobbinsville Twp, NJ 08691",40.2226313,-74.6307936
+5,Colts Neck,Monmouth,Trump National Boulevard,"Trump National BlvdColts Neck, NJ 07722",40.302848,-74.160911
+5,Howell,Monmouth,Sylvan Blvd,"Sylvan BlvdHowell Township, NJ 07731",40.141866,-74.21503
+5,Wall,Monmouth,New Bedford Rd,"New Bedford RdWall Township, NJ",40.176894,-74.064008
+4,Freehold,Monmouth,Sapaak Rd,"Sapaak RdFreehold Township, NJ 07728",40.267652,-74.247823
+10,New Hanover,Burlington,Sunrise Rd,"Sunrise Rd, New Hanover, Burlington",40.0176581,-74.6092316
+10,Woodland,Burlington,Rifle Camp Rd,"Rifle Camp Road, Woodland Park, NJ 07424",40.887135,-74.190187
+9,Southhampton,Burlington,Chatham Pl,"Chatham PlSouthampton Township, NJ 08088",39.9011,-74.708882
+9,Pemberton,Burlington,Magnolia Rd,"Magnolia RdPemberton Township, NJ",39.936557,-74.649614
+18,Bass River,Burlington,Stevenson Rd,"Stevenson Rd, Vincentown, NJ 08005",39.813119,-74.402408
+22,Washington,Burlington,Christine Pl,Christie PlWashington 98233,48.492041,-122.3052631
+27,Egg Harbor City,Atlantic,Philidelphia Ave,"Philidelphia Ave, Egg Harbor City, NJ 08215",39.527393,-74.649185
+28,Hamilton,Atlantic,Hamilton Lakes Dr,"Hamilton Lakes Dr, Hamilton, NJ 08619",40.223088,-74.72007
+28,Vineland,Cumberland,S Brewster Rd,"S Brewster RdVineland, NJ 08361",39.483818,-74.976179
+28,Maurice River Township,Cumberland,Estell Manor Rd,"Estell Manor RdMaurice River, NJ",39.363496,-74.876404
+25,Winslow,Camden,Waterfold Blue Anchor Rd,"Waterford-Blue Anchor RdWinslow Township, NJ 08037",39.670694,-74.8315
+26,Maurice River Township,Cumberland,Sand Company Rd,"Sand Company RdMaurice River, NJ",39.317363,-74.943544
+26,Dennis,Cape May,Wiley Ct,"Wiley CtDennis, NJ 08210",39.1689,-74.774863
+26,Woodbine,Cape May,Sherman Ave,"Sherman AveWoodbine, NJ 08270",39.2291157,-74.8040577
+26,Estell Manor,Atlantic,Tuckahoe Rd,tuckahoe rd - Estell Manor,39.355169,-74.786706
+23,Middle,Cape May,Court House South Dennis Rd,"Court House South Dennis RdMiddle Township, NJ 08210",39.140829,-74.8256
+24,Lower,Cape May,Cresse Ln,"Cresse LnLower Township, NJ 08204",38.9968199,-74.8836708
+6,Oldmans,Salem,Perkintown Rd,"Perkintown Rd, Pedricktown, NJ 08067",39.749662,-75.448473
+6,Mannington,Salem,Black Rd,"Black RdMannington Township, NJ",39.649203,-75.3973
+7,South Harrison,Gloucester,Karen Dr,"Karen DrSouth Harrison, NJ 08062",39.702417,-75.227469
+13,Alloway,Salem,Alloway Aldine Rd,"Alloway Aldine RdAlloway Township, NJ",39.5675246,-75.3145629
+11,Lower Alloways Creek,Salem,Alloway Creek Neck Rd,"Alloway Creek Neck RdLower Alloways Creek, NJ",39.4587034,-75.4950491
+3,Fairfield,Cumberland,Foxhill Rd,"FOX HILL RD, Fairfield Twp., NJ 07004-2313",40.876443,-74.307229
